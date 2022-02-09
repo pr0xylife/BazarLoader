@@ -1,0 +1,18 @@
+BitRAT 2022 | 08.02.2022 | Version 1.38
+
+************************************************************************************************************
+
+BitRAT .exe da6a34bce3465d3cedf6d1f2a4b2861fb17442c5e66b69791c3f9fc2f3909cb0
+NanoCore .zip 294d30efb56b831e1ae5b93dd67fa811d912fa2d59dad20b970e3411b7d3c1ba
+
+GET: https://limanlimanlawyers.com/cv/Lqeusev.log
+
+#OpenDIR - https://limanlimanlawyers.com/cv/
+
+
+NanoCore c2'
+childhome4100.duckdns.org:4100
+
+
+BitRAT c2
+bitratnew9100.duckdns.org:9100
